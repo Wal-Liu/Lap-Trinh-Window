@@ -1,0 +1,12 @@
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.AssemblyReference.cache
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.FStudent.resources
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Properties.Resources.resources
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.UCThongTin.resources
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.GenerateResource.cache
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.CoreCompileInputs.cache
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe.config
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.pdb
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.exe
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.pdb
+D:\HCMUTE\Code\Nam 2\LapTrinhWindows\BaiThucHanh1\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.FTeacher.resources
